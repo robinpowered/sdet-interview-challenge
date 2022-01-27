@@ -4,7 +4,7 @@ Welcome!
 
 Here you will find a set testing assignments to perform when interviewing with Robin. These tasks represent testing scenarios similar to what you can expect to encounter while working at Robin.
 
-We do not expect you to spend more than an hour or two on these challenges.
+We do not expect you to spend more than two hours total on these challenges.
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ npm run test:watch   # Runs tests any time the files are modified.
 
 ![exclamation point](exclamation.png) DO NOT write or execute any tests that could be conidered nefarious or DoS attempts!!! This API is not owned or operated by Robin and we wish to do no harm.
 
-You should spend 30-60 minutes writing positive and negative tests against the API. It would be preferred to go deep against a single endpoint (like list) than to have shallow coverage for all four endpoints. 
+You should spend 60-90 minutes writing positive and negative tests against the API. It would be preferred to go deep against a single endpoint (like list) than to have shallow coverage for all four endpoints. 
 
 Your tests should be written under [test/openbrewerydb](test/openbrewerydb) and should pass consistently.
 
@@ -50,6 +50,8 @@ Now that you have written some standard REST API tests, put on your evil hat. Fo
 
 Your test cases should be added to [Challenge2-TestCases.md](Challenge2-TestCases.md)
 Again, this is a text list of scenarios and NOT something that you should be executing. We wish to cause no harm to the API.
+
+You should spend ~30 minutes on this task.
 
 ## Preparing and submitting the challenge
 
