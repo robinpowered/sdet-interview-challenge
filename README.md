@@ -29,7 +29,7 @@ There are two challenges to be completed. First, you will write some typical RES
 
 For this challenge you will be writing some tests against the [Open Brewery DB REST API](https://www.openbrewerydb.org/documentation). This API is publically available and has no authentication requirements. 
 
-JS / [JEST](https://jestjs.io/docs/getting-started) tests are preferred. Other frameworks can be used, but instructions on how to run the tests must be provided with your submission. 
+Javascript and [JEST](https://jestjs.io/docs/getting-started) tests are preferred, however other languages and frameworks may be used instead. If you use another technology, please include instructions on how to run the tests along with with your submission. 
 
 This project is wired up to run JEST tests with either of the following commands:
 
