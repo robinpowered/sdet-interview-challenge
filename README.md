@@ -38,9 +38,9 @@ npm test             # Runs all tests one time
 npm run test:watch   # Runs tests any time the files are modified. 
 ```
 
-![exclamation point](exclamation.png) DO NOT write or execute any tests that could be conidered nefarious or DoS attempts!!! This API is not owned or operated by Robin and we wish to do no harm.
+![exclamation point](exclamation.png) DO NOT write or execute any tests that could be considered nefarious or DoS attempts!!! This API is not owned or operated by Robin and we wish to do no harm.
 
-You should spend 60-90 minutes writing positive and negative tests against the API. It would be preferred to go deep against a single endpoint (like list) than to have shallow coverage for all four endpoints. 
+You should spend 60-90 minutes writing positive and negative tests against the API. __It would be preferred to go deep against a single endpoint (like list) than to have shallow coverage for all four endpoints.__ 
 
 Your tests should be written under [test/openbrewerydb](test/openbrewerydb) and should pass consistently.
 
